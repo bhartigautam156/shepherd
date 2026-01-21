@@ -18,17 +18,17 @@ replace (
 )
 
 replace (
-	github.com/rancher/aks-operator => github.com/bhartigautam156/aks-operator v0.0.0-20260107072254-04a73bc4c320
-	github.com/rancher/apiserver => github.com/bhartigautam156/apiserver v0.0.0-20251230120015-447e11029750
-	github.com/rancher/eks-operator => github.com/bhartigautam156/eks-operator v0.0.0-20260107074747-b3218886dfa9
-	github.com/rancher/fleet/pkg/apis => github.com/bhartigautam156/fleet/pkg/apis v0.0.0-20260108041748-88db5cb9dcb9
-	github.com/rancher/gke-operator => github.com/bhartigautam156/gke-operator v0.0.0-20260108042645-e4f49fd1b501
-	github.com/rancher/lasso => github.com/bhartigautam156/lasso v0.0.0-20251229100131-0f72619beec0
-	github.com/rancher/norman => github.com/bhartigautam156/norman v0.0.0-20251230120334-71f332fee56c
+	github.com/rancher/aks-operator => github.com/bhartigautam156/aks-operator v0.0.0-20260121085318-7fb26b6bc2a3
+	github.com/rancher/apiserver => github.com/bhartigautam156/apiserver v0.0.0-20260121080657-830ec77018bb
+	github.com/rancher/eks-operator => github.com/bhartigautam156/eks-operator v0.0.0-20260121104759-244256afa79f
+	github.com/rancher/fleet/pkg/apis => github.com/bhartigautam156/fleet/pkg/apis v0.0.0-20260121083231-66179d2f50f2
+	github.com/rancher/gke-operator => github.com/bhartigautam156/gke-operator v0.0.0-20260121103055-f62c3f1ac799
+	github.com/rancher/lasso => github.com/bhartigautam156/lasso v0.0.0-20260121065228-70b2c91143c4
+	github.com/rancher/norman => github.com/bhartigautam156/norman v0.0.0-20260121072704-a035b9f8f05b
 	github.com/rancher/rancher/pkg/apis => github.com/bhartigautam156/rancher/pkg/apis v0.0.0-20260105104153-d3faaf57417f
-	github.com/rancher/rke => github.com/bhartigautam156/rke v0.0.0-20260105055322-f255d24b8c6a
-	github.com/rancher/system-upgrade-controller/pkg/apis => github.com/bhartigautam156/system-upgrade-controller/pkg/apis v0.0.0-20260108045225-ceadd8e4ee44
-	github.com/rancher/wrangler/v3 => github.com/bhartigautam156/wrangler/v3 v3.3.1-0.20251229122518-17d8c43b27b8
+	github.com/rancher/rke => github.com/bhartigautam156/rke v0.0.0-20260121111236-2aad6ac3970e
+	github.com/rancher/system-upgrade-controller/pkg/apis => github.com/bhartigautam156/system-upgrade-controller/pkg/apis v0.0.0-20260121112405-cebd5457f8da
+	github.com/rancher/wrangler/v3 => github.com/bhartigautam156/wrangler/v3 v3.3.2-0.20260121071658-21d254f6dd17
 )
 
 require (
