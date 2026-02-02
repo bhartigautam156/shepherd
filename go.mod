@@ -18,17 +18,14 @@ replace (
 )
 
 replace (
-	github.com/rancher/aks-operator => github.com/bhartigautam156/aks-operator v0.0.0-20260121085318-7fb26b6bc2a3
-	github.com/rancher/apiserver => github.com/bhartigautam156/apiserver v0.0.0-20260121080657-830ec77018bb
-	github.com/rancher/eks-operator => github.com/bhartigautam156/eks-operator v0.0.0-20260121104759-244256afa79f
-	github.com/rancher/fleet/pkg/apis => github.com/bhartigautam156/fleet/pkg/apis v0.0.0-20260121083231-66179d2f50f2
-	github.com/rancher/gke-operator => github.com/bhartigautam156/gke-operator v0.0.0-20260121103055-f62c3f1ac799
-	github.com/rancher/lasso => github.com/bhartigautam156/lasso v0.0.0-20260121065228-70b2c91143c4
-	github.com/rancher/norman => github.com/bhartigautam156/norman v0.0.0-20260121072704-a035b9f8f05b
+	github.com/rancher/aks-operator => github.com/bhartigautam156/aks-operator v0.0.0-20260202110724-01ce1591d51b
+	github.com/rancher/eks-operator => github.com/bhartigautam156/eks-operator v0.0.0-20260202111035-765996cb8225
+	github.com/rancher/fleet/pkg/apis => github.com/bhartigautam156/fleet/pkg/apis v0.0.0-20260202105719-b5f76ccd3b7d
+	github.com/rancher/gke-operator => github.com/bhartigautam156/gke-operator v0.0.0-20260202111329-7890f988d513
+	github.com/rancher/norman => github.com/bhartigautam156/norman v0.0.0-20260202103503-700f5a801d5a
 	github.com/rancher/rancher/pkg/apis => github.com/bhartigautam156/rancher/pkg/apis v0.0.0-20260105104153-d3faaf57417f
-	github.com/rancher/rke => github.com/bhartigautam156/rke v0.0.0-20260121111236-2aad6ac3970e
-	github.com/rancher/system-upgrade-controller/pkg/apis => github.com/bhartigautam156/system-upgrade-controller/pkg/apis v0.0.0-20260121112405-cebd5457f8da
-	github.com/rancher/wrangler/v3 => github.com/bhartigautam156/wrangler/v3 v3.3.2-0.20260121071658-21d254f6dd17
+	github.com/rancher/rke => github.com/bhartigautam156/rke v0.0.0-20260202112914-bb453d60746f
+	github.com/rancher/system-upgrade-controller/pkg/apis => github.com/bhartigautam156/system-upgrade-controller/pkg/apis v0.0.0-20260202110153-ec44dda3e90a
 )
 
 require (
@@ -45,17 +42,17 @@ require (
 	github.com/pkg/sftp v1.13.5
 	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.52.0
 	github.com/rancher/aks-operator v1.13.0-rc.4
-	github.com/rancher/apiserver v0.7.7
+	github.com/rancher/apiserver v0.8.2
 	github.com/rancher/eks-operator v1.13.0-rc.4
 	github.com/rancher/fleet/pkg/apis v0.15.0-alpha.4
 	github.com/rancher/gke-operator v1.13.0-rc.3
-	github.com/rancher/lasso v0.2.5
+	github.com/rancher/lasso v0.2.6
 	github.com/rancher/norman v0.8.1
 	github.com/rancher/rancher/pkg/apis v0.0.0-20251107181200-efcbd5d43f4e
 	github.com/rancher/rke v1.8.0
 	github.com/rancher/system-upgrade-controller/pkg/apis v0.0.0-20250930163923-f2c9e60b1078
 	github.com/rancher/wrangler v1.1.2
-	github.com/rancher/wrangler/v3 v3.3.1
+	github.com/rancher/wrangler/v3 v3.3.2-rc.1
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.10.1
 	golang.org/x/crypto v0.45.0
