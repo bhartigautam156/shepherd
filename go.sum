@@ -18,8 +18,8 @@ github.com/aws/aws-sdk-go v1.55.8 h1:JRmEUbU52aJQZ2AjX4q4Wu7t4uZjOu71uyNmaWlUkJQ
 github.com/aws/aws-sdk-go v1.55.8/go.mod h1:ZkViS9AqA6otK+JBBNH2++sx1sgxrPKcSzPPvQkUtXk=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
 github.com/beorn7/perks v1.0.1/go.mod h1:G2ZrVWU2WbWT9wwq4/hrbKbnv/1ERSJQ0ibhJ6rlkpw=
-github.com/bhartigautam156/rancher/pkg/apis v0.0.0-20260409062002-0a29789f8b23 h1:dUy0MlOTBEir0q2ekObffKZ1UuIaIK/LHiIG0WBxR9Y=
-github.com/bhartigautam156/rancher/pkg/apis v0.0.0-20260409062002-0a29789f8b23/go.mod h1:/dyPMWzGrxF9QscTxbOxijPQF4LWVy2VyrhnxtXzJ3M=
+github.com/bhartigautam156/rancher/pkg/apis v0.0.0-20260422040031-154631423168 h1:kLbN6OZami01z7S152NtYuoANbabg+lD2VSc7nZfCD4=
+github.com/bhartigautam156/rancher/pkg/apis v0.0.0-20260422040031-154631423168/go.mod h1:c1ZVkOgm9BcFnOsPZ8/2dpo5/eOdRRwIChH8+forNYA=
 github.com/blang/semver/v4 v4.0.0 h1:1PFHFE6yCCTv8C1TeyNNarDzntLi7wMI5i/pzqYIsAM=
 github.com/blang/semver/v4 v4.0.0/go.mod h1:IbckMUScFkM3pff0VJDNKRiT6TG/YpiHIM2yvyW5YoQ=
 github.com/bwesterb/go-ristretto v1.2.3/go.mod h1:fUIoIZaG73pV5biE2Blr2xEzDoMj7NFEuV9ekS419A0=

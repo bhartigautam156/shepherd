@@ -2,7 +2,7 @@ module github.com/rancher/shepherd
 
 go 1.25.0
 
-replace github.com/rancher/rancher/pkg/apis => github.com/bhartigautam156/rancher/pkg/apis v0.0.0-20260409062002-0a29789f8b23
+replace github.com/rancher/rancher/pkg/apis => github.com/bhartigautam156/rancher/pkg/apis v0.0.0-20260422040031-154631423168
 
 replace (
 	github.com/docker/distribution => github.com/docker/distribution v2.8.2+incompatible // rancher-machine requires a replace is set
@@ -45,8 +45,8 @@ require (
 	github.com/spf13/cobra v1.10.1
 	golang.org/x/crypto v0.49.0
 	gopkg.in/yaml.v2 v2.4.0
-	k8s.io/api v0.35.1
-	k8s.io/apimachinery v0.35.1
+	k8s.io/api v0.35.3
+	k8s.io/apimachinery v0.35.3
 	k8s.io/apiserver v0.35.1
 	k8s.io/cli-runtime v0.34.1
 	k8s.io/client-go v12.0.0+incompatible
